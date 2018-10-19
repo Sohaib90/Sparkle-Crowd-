@@ -1,2 +1,2 @@
 # Sparkle-Crowd-
-Crowdsourcing for children (Human Computer Interaction Project)
+Crowdsourcing for children (Human Computer Interaction Group Project)
