@@ -1,0 +1,29 @@
+{
+  "name": "loginformapp",
+  "version": "1.0.0",
+  "description": "Mean Stack login form app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "angular2-flash-messages": "^1.0.8",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "express-fileupload": "^0.3.0",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "emailjs":"*",
+    "formidable":"*"
+  },
+  "author": "Muneeb Zia",
+  "license": "ISC",
+  "devDependencies": {
+    "angular-cli": "^1.0.0-beta.28.3"
+  }
+}
